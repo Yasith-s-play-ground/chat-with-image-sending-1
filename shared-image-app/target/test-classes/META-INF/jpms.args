@@ -1,0 +1,4 @@
+--patch-module
+shared.image.app=_
+--add-reads
+shared.image.app=ALL-UNNAMED
